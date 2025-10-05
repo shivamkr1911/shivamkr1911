@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkr1911&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkr1911" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
-
-- 💬 Ask me about **C, C++, Python, HTML & CSS**
+- 💬 Ask me about **C, C++, Python, HTML & CSS, JavaScript, React.js**
 
 - 📫 How to reach me **shivamkrsingh1911@gmail.com**
 
